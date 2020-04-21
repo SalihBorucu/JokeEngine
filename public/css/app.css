@@ -1,0 +1,48 @@
+        body {
+            width: 98vw;
+        }
+        
+        .card {
+            max-width: 100%;
+            height: auto;
+            margin-left: 10px;
+        }
+        
+        .row {
+            width: 100%;
+            height: auto;
+        }
+        
+        .header {
+            padding-top: 15%;
+            margin: auto;
+            opacity: 1;
+        }
+        
+        .jumbotron {
+            width: 100%;
+            height: auto;
+        }
+        
+        .container {
+            border: 2px green solid;
+            border-radius: 10px;
+            min-height: 100vh;
+        }
+        
+        .header-image {
+            background-image: url("/images/smile.jpg");
+            background-size: 100%;
+            background-repeat: no-repeat;
+            height: 100%;
+            opacity: 0.9;
+        }
+        
+        .btn {
+            width: 100%;
+        }
+        
+        h1 {
+            font-size: 41px;
+            color: white;
+        }
